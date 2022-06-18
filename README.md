@@ -1,2 +1,2 @@
 # TestPullRequest
-[![Build Status](https://travis-ci.org/xwzpp/TestPullRequest.svg?branch=master)](https://travis-ci.org/xwzpp/TestPullRequest)
+1. В своем аккаунте на Github создать копию репозитория из аккаунта с помощью кнопки "Fork".
